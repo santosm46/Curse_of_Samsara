@@ -12,4 +12,4 @@ Controles:
 	
 ![gamelogo](gamelogo.png)
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.PNG)

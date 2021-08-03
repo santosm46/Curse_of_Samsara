@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRnYg1daf5K+VAadHWHRJ/foHxaCpR48nkQwfjuZ0GW0wUOm156iled4etGvaar8n51ZdcfWxOa6eQbjgUWkGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santo\\Documents\\Curse_of_Samsara\\Projeto jaaj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

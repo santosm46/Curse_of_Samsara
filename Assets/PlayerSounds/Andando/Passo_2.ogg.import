@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Passo_2.ogg-88d8eaf54eb793328b29a2072613f881.oggstr"
+
+[deps]
+
+source_file="res://Assets/PlayerSounds/Andando/Passo_2.ogg"
+dest_files=[ "res://.import/Passo_2.ogg-88d8eaf54eb793328b29a2072613f881.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

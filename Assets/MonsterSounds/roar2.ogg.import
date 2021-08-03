@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/roar2.ogg-614e99e8fd8dc93be2847e4fd465b626.oggstr"
+
+[deps]
+
+source_file="res://Assets/MonsterSounds/roar2.ogg"
+dest_files=[ "res://.import/roar2.ogg-614e99e8fd8dc93be2847e4fd465b626.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

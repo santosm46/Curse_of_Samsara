@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Pulo_1_Reverb.ogg-f8c200f8154c992528de3c76091856d2.oggstr"
+
+[deps]
+
+source_file="res://Assets/PlayerSounds/Pulo_Queda/Reverb/Pulo_1_Reverb.ogg"
+dest_files=[ "res://.import/Pulo_1_Reverb.ogg-f8c200f8154c992528de3c76091856d2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/death.ogg-7f8543e32efdcb79f9185a5bdeee85dc.oggstr"
+
+[deps]
+
+source_file="res://Assets/PlayerSounds/Morrendo/death.ogg"
+dest_files=[ "res://.import/death.ogg-7f8543e32efdcb79f9185a5bdeee85dc.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

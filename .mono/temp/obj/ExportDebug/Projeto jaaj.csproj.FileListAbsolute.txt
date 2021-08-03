@@ -1,0 +1,8 @@
+C:\Users\santo\Projeto jaaj\.mono\temp\bin\ExportDebug\Projeto jaaj.dll
+C:\Users\santo\Projeto jaaj\.mono\temp\bin\ExportDebug\Projeto jaaj.pdb
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\ExportDebug\Projeto jaaj.csproj.AssemblyReference.cache
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\ExportDebug\Projeto jaaj.AssemblyInfoInputs.cache
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\ExportDebug\Projeto jaaj.AssemblyInfo.cs
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\ExportDebug\Projeto jaaj.csproj.CoreCompileInputs.cache
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\ExportDebug\Projeto jaaj.dll
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\ExportDebug\Projeto jaaj.pdb

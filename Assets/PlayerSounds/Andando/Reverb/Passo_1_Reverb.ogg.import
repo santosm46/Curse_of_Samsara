@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Passo_1_Reverb.ogg-d0ef0b36d95076b6f8071b7a12a24690.oggstr"
+
+[deps]
+
+source_file="res://Assets/PlayerSounds/Andando/Reverb/Passo_1_Reverb.ogg"
+dest_files=[ "res://.import/Passo_1_Reverb.ogg-d0ef0b36d95076b6f8071b7a12a24690.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,32 @@
+D:\Projetos\Godot\Projeto jaaj\.mono\temp\bin\Debug\Projeto jaaj.dll
+D:\Projetos\Godot\Projeto jaaj\.mono\temp\bin\Debug\Projeto jaaj.pdb
+D:\Projetos\Godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.csproj.AssemblyReference.cache
+D:\Projetos\Godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.AssemblyInfoInputs.cache
+D:\Projetos\Godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.AssemblyInfo.cs
+D:\Projetos\Godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.csproj.CoreCompileInputs.cache
+D:\Projetos\Godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.dll
+D:\Projetos\Godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.pdb
+C:\Users\santo\Documents\jogos_godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.csproj.AssemblyReference.cache
+C:\Users\santo\Documents\jogos_godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.AssemblyInfoInputs.cache
+C:\Users\santo\Documents\jogos_godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.AssemblyInfo.cs
+C:\Users\santo\Documents\jogos_godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.csproj.CoreCompileInputs.cache
+C:\Users\santo\Documents\jogos_godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.dll
+C:\Users\santo\Documents\jogos_godot\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.pdb
+C:\Users\santo\Documents\jogos_godot\Projeto jaaj\.mono\temp\bin\Debug\Projeto jaaj.dll
+C:\Users\santo\Documents\jogos_godot\Projeto jaaj\.mono\temp\bin\Debug\Projeto jaaj.pdb
+C:\Users\santo\Projeto jaaj\.mono\temp\bin\Debug\Projeto jaaj.dll
+C:\Users\santo\Projeto jaaj\.mono\temp\bin\Debug\Projeto jaaj.pdb
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.csproj.AssemblyReference.cache
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.AssemblyInfoInputs.cache
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.AssemblyInfo.cs
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.csproj.CoreCompileInputs.cache
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.dll
+C:\Users\santo\Projeto jaaj\.mono\temp\obj\Debug\Projeto jaaj.pdb
+C:\Users\santo\Documents\Curse_of_Samsara\.mono\temp\bin\Debug\Projeto jaaj.dll
+C:\Users\santo\Documents\Curse_of_Samsara\.mono\temp\bin\Debug\Projeto jaaj.pdb
+C:\Users\santo\Documents\Curse_of_Samsara\.mono\temp\obj\Debug\Projeto jaaj.csproj.AssemblyReference.cache
+C:\Users\santo\Documents\Curse_of_Samsara\.mono\temp\obj\Debug\Projeto jaaj.AssemblyInfoInputs.cache
+C:\Users\santo\Documents\Curse_of_Samsara\.mono\temp\obj\Debug\Projeto jaaj.AssemblyInfo.cs
+C:\Users\santo\Documents\Curse_of_Samsara\.mono\temp\obj\Debug\Projeto jaaj.csproj.CoreCompileInputs.cache
+C:\Users\santo\Documents\Curse_of_Samsara\.mono\temp\obj\Debug\Projeto jaaj.dll
+C:\Users\santo\Documents\Curse_of_Samsara\.mono\temp\obj\Debug\Projeto jaaj.pdb
